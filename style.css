@@ -1,0 +1,93 @@
+body{
+	font-family: serif;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image:url(https://imgr.search.brave.com/scMTHtdvSwQ_eN30_fKzP5reYNt0gaUmYVYXZiAXN4E/fit/1200/900/no/1/aHR0cHM6Ly9jLndh/bGxoZXJlLmNvbS9w/aG90b3MvYTcvNzQv/MTkyMHgxMDgwX3B4/X0NvZGVfY29kaW5n/X3Byb2dyYW1taW5n/X1NpbXBsZV9CYWNr/Z3JvdW5kLTEyOTE0/MjUuanBnIWQ);
+	background-size:cover;
+	background:#E3FDFD;
+
+}
+.contenedor{
+	margin-top:0px;
+	
+
+
+}
+.barra{
+
+	background:#222831;
+	height:67px;
+
+}
+
+.items{
+	display: inline-block;
+
+}
+.items a{
+	color: white;
+	text-decoration:none;
+	padding:20px;
+	display:block;
+}
+.items a:hover{
+	
+	background:#00ADB5;
+
+}
+
+.cotent-texto{
+	width:70%;
+	display: inline-block;
+	float: right;
+}
+
+.title-html{
+	/*background:#185ADB;*/
+	background: #FF7600;
+	border-radius:3px;
+	border:1px solid #1EAE98;
+}
+.title-css{
+	/*background:#185ADB;*/
+	background: #185ADB;
+	border-radius:3px;
+	border:1px solid #1EAE98;
+}
+.title-js{
+	/*background:#185ADB;*/
+	background: #1EAE98;
+	border-radius:3px;
+	border:1px solid #1EAE98;
+}
+
+
+
+
+.lista-aside{
+	width:300px;
+	height:20px;
+	margin-left:0px;
+}
+
+.items-aside{	
+padding: 17px;
+border:2px  solid #66DE93;
+list-style: none;
+background: #66DE93;
+
+
+}
+.items-aside a{
+	
+	color:black;
+	text-decoration:none;
+	padding:10px;
+	color: white;
+}
+.items-aside a:hover{
+	display:block;
+	
+	background:#064420;
+	text-decoration:none;
+}
